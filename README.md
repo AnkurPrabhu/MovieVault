@@ -1,4 +1,4 @@
-### MovieVault : Your Personal Movie Manager
+# MovieVault : Your Personal Movie Manager
 
 
 This is a CRUD application built using React and a SQL database. The application allows users to manage movie information, including titles, ratings, and user information. It also includes additional features such as movie search functionality, user ratings, and synthetic data generation.
