@@ -3,13 +3,20 @@
 
 This is a CRUD application built using React and a SQL database. The application allows users to manage movie information, including titles, ratings, and user information. It also includes additional features such as movie search functionality, user ratings, and synthetic data generation.
 
-## Requirements
+## Tasks completed
 
 - [x] Use React to create a frontend interface for the CRUD application.
 - [x] Use a SQL database to store and retrieve movie information, including titles, ratings, and user information.
 - [x] Implement a movie search functionality that fetches data from the IMDB/ other 3rd party APIs. (Fetch about 10,000 movies via script) and store the records in the SQL database.
 - [x] Allow users to rate movies they have watched, and store the ratings in the SQL database.
 - [x] Create synthetic data for about 10,000 users who would have watched about 50,000 movies. The data can be completely random.
+
+## Tasks to be done
+- [ ] Authentication using jwt.
+- [ ] user interface of all the pages.
+      
+
+
 
 ## Bonus
 
