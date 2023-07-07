@@ -18,7 +18,7 @@ This is a CRUD application built using React and a SQL database. The application
 
 
 
-## Bonus
+## Additional features
 
 - [x] Implement pagination and infinite scrolling to improve the user experience and performance.
 
